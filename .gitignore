@@ -33,3 +33,5 @@
 *.tlog
 *.log
 *.bak
+/Debug/
+/Releaase/
