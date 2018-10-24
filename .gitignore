@@ -35,3 +35,4 @@
 *.bak
 /Debug/
 /Releaase/
+/ipch/
